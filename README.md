@@ -1,6 +1,7 @@
 # T3chFlicks - CatBoost QuickStart
 
 > This repo holds a collection of tutorial notebooks
+![](./teaser.png)
 
 ## What?
 CatBoost is a Machine Learning algorithm based on gradient boosted decision trees. In this repo you will find a series of notebooks that make use of the algorithm and helpful features of the CatBoost Python library.
