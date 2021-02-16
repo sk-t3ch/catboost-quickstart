@@ -11,4 +11,9 @@ CatBoost is a Machine Learning algorithm based on gradient boosted decision tree
 * What thing is it? - `/multinomial_classifier.ipynb`
 * How to deal with things as input `/categorical_features.ipynb`
 
+
+---
+
+This project was created by [T3chFlicks](https://t3chflicks.org) - A tech focused education and services company.
+
 ---
