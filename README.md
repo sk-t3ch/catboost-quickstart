@@ -1,4 +1,6 @@
 # T3chFlicks - CatBoost QuickStart
+The Blog Post that describes this repo can be found [here](https://t3chflicks.medium.com/catboost-quickstart-ml-classification-f1d7fb70fea8).
+
 
 > This repo holds a collection of tutorial notebooks
 ![](./teaser.png)
