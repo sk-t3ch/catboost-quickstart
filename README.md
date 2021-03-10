@@ -1,4 +1,4 @@
-# [T3chFlicks](htt[ps://t3chflicks.org) - CatBoost QuickStart
+# [T3chFlicks](https://t3chflicks.org) - CatBoost QuickStart
 [![Generic badge](https://img.shields.io/badge/Blog_Post-Github-orange.svg)](./blog_post.md)
 
 [![Generic badge](https://img.shields.io/badge/Blog_Post-Medium-blue.svg)](https://t3chflicks.medium.com/catboost-quickstart-ml-classification-f1d7fb70fea8)
